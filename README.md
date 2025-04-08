@@ -15,6 +15,7 @@ Formal Vice Chairs:
 Ivan Jeliazkov (University of California, Irvine), Simon Fong (University of Macau)
 
 **Committe Members**
+
 Monica Chis (Romania), Lipika Dey (India), Qin-Wei Fan (China), Riddhiman Ghosh (India), Xing-Shi He (China), Paromita Goswami (India), Babita Gupta (India), Umesh Rao Hodeghatta (India), Suash Deb (India), Momin Jamil (Germany), Rabindra K. Jena (India), Luiz Mouinho (UK), Oneko Osaba (Spain), João Paulo Papa (Brazil), Puspalata Pattojoshi (India), B. M. Subraya (India), Xin-She Yang (UK).
 
 **Objectives**
