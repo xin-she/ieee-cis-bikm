@@ -7,6 +7,7 @@ IEEE Task Force on Business Intelligence and Knowledge Management (IEEE BIKM Tas
 
 **Advisor** and web contact: [Xin-She Yang](https://xin-she.github.io/web) (Middlesex University London)   x.yang (at ) mdx.ac.uk 
 
+---
 Former Chairs: 
 1. Xin-She Yang (Middlex University London)
 2. Suash Deb (Former President of INNS-India Chapter)
@@ -30,3 +31,4 @@ Monica Chis (Romania), Lipika Dey (India), Qin-Wei Fan (China), Riddhiman Ghosh 
 * Nature-inspired computing and algorithms
 * Real-world applications
 
+---
